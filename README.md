@@ -8,15 +8,18 @@ python-design-patterns
 * Prototype 
 * Singleton 
 * Object pool
-###Structural	
+
+
+###Structural	  
 * Adapter
 * Bridge 
 * Composite 
 * Decorator 
 * Facade 
 * Flyweight 
-* Proxy
-###Behavioral	
+* Proxy  
+
+###Behavioral	   
 * Chain of responsibility 
 * Command 
 * Interpreter 
